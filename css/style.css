@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+.top {
+    background: pink;
+    padding: 7px 0;
+}
+
+.con {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+}
+
+header {
+    padding: 30px;
+}
+
+.banner {
+    background: pink;
+}
+
+.a {
+    width: 550px;
+}
+
+.gap{
+    gap: 30px;
+}
+
+.product h1, h2{
+    text-align: center;
+    padding: 50px 0;
+}
